@@ -1,0 +1,19 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "NodeJS REST Api without Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koneru18/node-rest-api.git"
+  },
+  "author": "Prasad Koneru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koneru18/node-rest-api/issues"
+  },
+  "homepage": "https://github.com/koneru18/node-rest-api#readme"
+}
